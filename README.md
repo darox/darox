@@ -14,4 +14,31 @@ I love to empower digital innovation through building and operating IT platforms
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/dario-mader-132077130/"><img align="left" src="https://github.com/darox/darox/blob/main/img/linkedin.svg?raw=true" alt="Dario Mader | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/dario-mader-132077130/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dario Mader | LinkedIn" width="21px"/></a>
+
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+## 🔭 I'm currently working on
+
+- Golang application for Xiaomi Mi Flora Plant Sensor
+
+## 🌱 I'm currently learning
+
+- Javascript
+- React
+- Golang
+
+## 💼 Technical Skills
+
+- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+- ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+- ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+## 📝 Latest Blog Posts
+
+- [Network sniffing on Kubernetes] (https://dariomader.io/post/k8s-network-sniffing/)
+- [Let's Encrypt on Kubernetes] (https://dariomader.io/post/k8s-letsencrypt-cert-manager/)
