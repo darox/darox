@@ -15,7 +15,7 @@ I love to empower digital innovation through building and operating IT platforms
 ## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/dario-mader-132077130/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dario Mader | LinkedIn"/></a>
-<a href="https://twitter.com/dari0x"><img align="left" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Dario Mader | Twitter"/></a>
+<a href="https://twitter.com/dari0x"><img align="left" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Dario Mader | Twitter"/></a><br>
 
 ## 🔭 I'm currently working on
 
