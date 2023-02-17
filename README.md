@@ -19,7 +19,8 @@ I love to empower digital innovation through building and operating IT platforms
 
 ## 🔭 I'm currently working on
 
-- Golang application for Xiaomi Mi Flora Plant Sensors
+- By day: [Isovalent](https://github.com/isovalent)
+- By night: [Golang application for Xiaomi Mi Flora Plant Sensors](https://github.com/darox/miflora-go)
 
 ## 🌱 I'm currently learning
 
@@ -32,12 +33,19 @@ I love to empower digital innovation through building and operating IT platforms
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ## 📝 Latest Blog Posts
 
+- [How I moved from MetalLB to Cilium](https://dariomader.io/post/how_i_moved_from_metallb_to_cilium/)
+
 - [Network sniffing on Kubernetes](https://dariomader.io/post/k8s-network-sniffing/)
 - [Let's Encrypt on Kubernetes](https://dariomader.io/post/k8s-letsencrypt-cert-manager/)
+
+## 📈 Github Stats
+
+[![Darox github stats](https://github-readme-stats.vercel.app/api?username=darox&count_private=true)](https://github.com/darox)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darox&layout=compact&count_private=true)](https://github.com/darox)
