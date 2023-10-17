@@ -20,12 +20,10 @@ I love to empower digital innovation through building and operating IT platforms
 ## 🔭 I'm currently working on
 
 - By day: [Isovalent](https://github.com/isovalent)
-- By night: [Golang application for Xiaomi Mi Flora Plant Sensors](https://github.com/darox/miflora-go)
+- By night: Still looking for cool side projects. 
 
 ## 🌱 I'm currently learning
 
-- Javascript
-- React
 - Golang
 
 ## 💼 Technical Skills
@@ -37,10 +35,14 @@ I love to empower digital innovation through building and operating IT platforms
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
+## 🏅 Certifications
+
+- CERTIFIED KUBERNETES ADMINISTRATOR (CKA)
+- CERTIFIED KUBERNETES SECURITY SPECIALIST (CKS)
+
 ## 📝 Latest Blog Posts
 
 - [How I moved from MetalLB to Cilium](https://dariomader.io/post/how_i_moved_from_metallb_to_cilium/)
-
 - [Network sniffing on Kubernetes](https://dariomader.io/post/k8s-network-sniffing/)
 - [Let's Encrypt on Kubernetes](https://dariomader.io/post/k8s-letsencrypt-cert-manager/)
 
