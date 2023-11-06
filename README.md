@@ -45,6 +45,10 @@ I love to empower digital innovation through building and operating IT platforms
 - [Network sniffing on Kubernetes](https://dariomader.io/post/k8s-network-sniffing/)
 - [Let's Encrypt on Kubernetes](https://dariomader.io/post/k8s-letsencrypt-cert-manager/)
 
+## 🎙️ Podcast appearances
+
+- [eCHO Episode 114: Running Cilium in home labs](https://www.youtube.com/watch?v=rrT9BiZonlY&t=19s)
+
 ## 📈 Github Stats
 
 [![Darox github stats](https://github-readme-stats.vercel.app/api?username=darox&count_private=true)](https://github.com/darox)
