@@ -20,7 +20,7 @@ I love to empower digital innovation through building and operating IT platforms
 ## 🔭 I'm currently working on
 
 - By day: [Isovalent](https://github.com/isovalent)
-- By night: Still looking for cool side projects. 
+- By night: [gx](https://github.com/darox/gx)
 
 ## 🌱 I'm currently learning
 
